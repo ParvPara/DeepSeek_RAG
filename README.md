@@ -26,6 +26,8 @@ ollama pull deepseek-coder:1.3b
 
 4. Place your documents in the `data` directory (supports PDF, DOCX, and TXT files)
 
+- Create data folder in the root folder so you will have frontend, backend and data folders
+
 ## Usage
 
 1. Start the ingestion process to load documents into the vector store:
